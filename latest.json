@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.3.16",
-  "apkUrl": "https://github.com/dushkua807-hub/cirro-updates/releases/download/v1.3.16/Cirro-1.3.16.apk",
-  "sha256": "e6db53a73e85147b02f0336d78d64270342dca2309b8f0899ab305a418d1883f",
+  "versionCode": 33,
+  "versionName": "1.3.17",
+  "apkUrl": "https://github.com/dushkua807-hub/cirro-updates/releases/download/v1.3.17/Cirro-1.3.17.apk",
+  "sha256": "ff1c7fdcf5c6e9bed4cd4ff6f2d3dc06164ba7a034b94f200a23d9135b06539e",
   "sizeBytes": 55152834,
-  "notes": "账户与设置页新增检查更新入口"
+  "notes": "仅提升版本号，用于应用内更新测试"
 }
