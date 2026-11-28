@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.3.20",
-  "apkUrl": "https://github.com/dushkua807-hub/cirro-updates/releases/download/v1.3.20/Cirro-1.3.20.apk",
-  "sha256": "1b98eb73f9f1600e028c56d27240a370d9bc54b5beee7792372f467f3a974e05",
-  "sizeBytes": 55152834,
-  "notes": "移除好友私信聊天；MV 播放页改为视频内叠层控制，评论入口保留，清晰度移至右上角更多菜单。播放与切换需真机验证。"
+  "versionCode": 37,
+  "versionName": "1.3.21",
+  "apkUrl": "https://github.com/dushkua807-hub/cirro-updates/releases/download/v1.3.21/Cirro-1.3.21.apk",
+  "sha256": "6153169943e2c0f7904fe9047ae74f2baf367c1c9b9871f3c28169af28b2073f",
+  "sizeBytes": 55161026,
+  "notes": "MV 播放页按 alpha63 截图重做为沉浸式布局：动态柔化背景、独立进度条、前后 15 秒控制；更多菜单中可打开评论和切换清晰度。需真机验收。"
 }
