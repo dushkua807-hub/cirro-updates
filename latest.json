@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.3.19",
-  "apkUrl": "https://github.com/dushkua807-hub/cirro-updates/releases/download/v1.3.19/Cirro-1.3.19.apk",
-  "sha256": "8a544fba89402e079c5ec672edda69e38f0125b1acf6f14ee493456bb124d05c",
-  "sizeBytes": 55197963,
-  "notes": "修复好友会话 400 错误，精简聊天界面并优化跳转；私信及媒体收发仍需实机验证"
+  "versionCode": 36,
+  "versionName": "1.3.20",
+  "apkUrl": "https://github.com/dushkua807-hub/cirro-updates/releases/download/v1.3.20/Cirro-1.3.20.apk",
+  "sha256": "1b98eb73f9f1600e028c56d27240a370d9bc54b5beee7792372f467f3a974e05",
+  "sizeBytes": 55152834,
+  "notes": "移除好友私信聊天；MV 播放页改为视频内叠层控制，评论入口保留，清晰度移至右上角更多菜单。播放与切换需真机验证。"
 }
